@@ -40,7 +40,7 @@ body {
     right: 25px;
     width: 350px;
     max-height: 80vh;
-    background: transparent; /* <-- MODIFICATA! */
+    background: var(--bg-light);
     border-radius: 15px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.2);
     display: flex;
